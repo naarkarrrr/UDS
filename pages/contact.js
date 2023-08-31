@@ -14,6 +14,7 @@ const Contact = () => {
               className="contact_form"
               id="contact_form"
               autoComplete="off"
+              netlify
             >
               <div className="input_list">
                 <ul>
