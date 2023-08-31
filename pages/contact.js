@@ -61,7 +61,7 @@ const Contact = () => {
               Lets Connect! Whether youre interested in collaborating on a project, have a question about my work, or simply want to say hello, Im just a click away. Reach out and lets start a conversation.
               </p>
               <p>
-              Get in Touch! Im thrilled to connect with you. If youre looking to discuss a potential project, inquire about my services, or even just share your thoughts, dont hesitate to reach out. Im here to listen, collaborate, and bring your ideas to life.
+              Get in Touch! Im thrilled to connect with you. If youre looking to discuss a potential project, inquire about my services, or even just share your thoughts, don't hesitate to reach out. Im here to listen, collaborate, and bring your ideas to life.
               </p>
             </div>
             <div className="info_list">
