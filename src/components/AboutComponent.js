@@ -17,12 +17,12 @@ const AboutComponent = () => {
             </div>
             <div className="desc">
               <p>
-              I'm like a digital all-rounder—I build websites, make them look great, and add cool graphics. 
+              I&apos;m like a digital all-rounder—I build websites, make them look great, and add cool graphics. 
               Think of me as the person who creates the backbone of websites, makes them easy to use, and adds artistic touches.
               </p>
               <p>
               In the world of the web, I wear many hats: I build websites, make them user-friendly, and add eye-catching visuals. 
-              My work brings together technology and design to push the limits of what's possible online.
+              My work brings together technology and design to push the limits of what&apos;s possible online.
               </p>
             </div>
             <div className="buttons">
@@ -66,10 +66,10 @@ const AboutComponent = () => {
             </div>
             <div className="desc">
               <p>
-              Currently pursuing a Post SSC Diploma at Vidyavardhini's Bhausaheb Vartak Polytechnic, I've combined formal education with hands-on experience. A pivotal internship at Branding Catalyst Pvt. Ltd. propelled me into a full time role as a web developer, refining my skills in front-end, UI/UX design, and graphics, while deepening my programming expertise.
+              Currently pursuing a Post SSC Diploma at Vidyavardhini&apos;s Bhausaheb Vartak Polytechnic, I&apos;ve combined formal education with hands-on experience. A pivotal internship at Branding Catalyst Pvt. Ltd. propelled me into a full time role as a web developer, refining my skills in front-end, UI/UX design, and graphics, while deepening my programming expertise.
               </p>
               <p>
-              My journey embraces the fusion of creativity and technology. From creating intuitive UI/UX designs to crafting captivating graphics, I've evolved into a skilled web developer. This path is a commitment to continuous growth, pushing boundaries, and contributing to resonant digital experiences.
+              My journey embraces the fusion of creativity and technology. From creating intuitive UI/UX designs to crafting captivating graphics, I&apos;ve evolved into a skilled web developer. This path is a commitment to continuous growth, pushing boundaries, and contributing to resonant digital experiences.
               </p>
             </div>
             <div className="buttons">

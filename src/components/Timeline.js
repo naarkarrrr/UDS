@@ -43,15 +43,15 @@ const Timeline = () => {
                 </div>
                 <div className="t_item_info">
                   <p className="fn_date">
-                    <span>CodeCatalyst'23</span>
+                    <span>CodeCatalyst&apos;23</span>
                   </p>
                   <h3 className="fn_title">
                     <Link href="/roadmap-single">
-                     College Hackathon Event's Website
+                     College Hackathon Event&apos;s Website
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  In the dynamic realm of web development, I proudly present a responsive and theme-infused website created for Vidyavardhini's Bhausaheb Vartak Polytechnic's hackathon event. This project showcases my knack for seamlessly blending design and functionality, resulting in an interactive platform that embodies the event's spirit and adapts flawlessly to various devices.
+                  In the dynamic realm of web development, I proudly present a responsive and theme-infused website created for Vidyavardhini&apos;s Bhausaheb Vartak Polytechnic&apos;s hackathon event. This project showcases my knack for seamlessly blending design and functionality, resulting in an interactive platform that embodies the event&apos;s spirit and adapts flawlessly to various devices.
                   </p>
                   <p className="fn_read">
                     {/* <Link href="/roadmap-single"> */}
@@ -91,7 +91,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  Introducing 'Ringico', an alluring imitation jewellery e-commerce website that encapsulates dynamic design within a sleek dark theme. With responsiveness at its core, this platform redefines shopping by seamlessly adapting to any device. 'Ringico' not only showcases exquisite adornments but also offers a captivating and user-centric experience that's as elegant as the pieces it presents.
+                  Introducing &apos;Ringico&apos;, an alluring imitation jewellery e-commerce website that encapsulates dynamic design within a sleek dark theme. With responsiveness at its core, this platform redefines shopping by seamlessly adapting to any device. &apos;Ringico&apos; not only showcases exquisite adornments but also offers a captivating and user-centric experience that&apos;s as elegant as the pieces it presents.
                   </p>
                   <p className="fn_read">
                     <Link href="https://ringico.netlify.app">
@@ -130,7 +130,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  Introducing Pulsick, the dynamic content hub where creators pulse with innovation. Pulsick isn't just a platform; it's a creative heartbeat, allowing creators to livestream, share content like Instagram, sell merchandise, and collaborate seamlessly. With its responsive design, Pulsick ensures an intuitive experience across devices, embodying the essence of "sick pulse" creators who infuse every interaction with vibrant energy.
+                  Introducing Pulsick, the dynamic content hub where creators pulse with innovation. Pulsick isn&apos;t just a platform; it&apos;s a creative heartbeat, allowing creators to livestream, share content like Instagram, sell merchandise, and collaborate seamlessly. With its responsive design, Pulsick ensures an intuitive experience across devices, embodying the essence of "sick pulse" creators who infuse every interaction with vibrant energy.
                   </p>
                   <p className="fn_read">
                     <Link href="/">
@@ -169,7 +169,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  In my rookie days, I created 'Branding Guests,' an innovative online PG hostel booking platform. This dynamic and responsive website, adorned with thematic aesthetics, seamlessly blends style with functionality, showcasing my early commitment to crafting immersive and user-friendly digital experiences.
+                  In my rookie days, I created &apos;Branding Guests,&apos; an innovative online PG hostel booking platform. This dynamic and responsive website, adorned with thematic aesthetics, seamlessly blends style with functionality, showcasing my early commitment to crafting immersive and user-friendly digital experiences.
                   </p>
                   <p className="fn_read">
                     <Link href="/roadmap-single">
@@ -208,7 +208,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  At the heart of my portfolio is 'Makan Mitra,' a dynamic and responsive real-estate and property seller website. With an engaging theme, trendy aesthetics, and seamless responsiveness, Makan Mitra showcases my ability to craft user-centric digital experiences that are both elegant and functional.
+                  At the heart of my portfolio is &apos;Makan Mitra,&apos; a dynamic and responsive real-estate and property seller website. With an engaging theme, trendy aesthetics, and seamless responsiveness, Makan Mitra showcases my ability to craft user-centric digital experiences that are both elegant and functional.
                   </p>
                   <p className="fn_read">
                     <Link href="/roadmap-single">
@@ -344,7 +344,7 @@ const Timeline = () => {
               <ul>
                 <li className={activeClass(1)}>
                   <a onClick={() => onClick(1)}>
-                    <span className="text">CodeCatalyst'23</span>
+                    <span className="text">CodeCatalyst&apos;23</span>
                     <span
                       className="circle"
                       style={{ filter: `brightness(${filter(1)}%)` }}
