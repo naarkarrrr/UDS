@@ -50,6 +50,11 @@ const Footer = () => {
                       <i className="fn-icon-linkedin" />
                     </a>
                   </li>
+                  <li>
+                    <a href="https://www.youtube.com/c/ShivamNarkar" target='_blank'>
+                      <i className="fn-icon-youtube" />
+                    </a>
+                  </li>
                   {/* <li>
                     <a href="#">
                       <i className="fn-icon-github" />
