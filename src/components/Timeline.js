@@ -46,15 +46,15 @@ const Timeline = () => {
                     <span>CodeCatalyst&apos;23</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link href="/roadmap-single">
+                    <p>
                      College Hackathon Event&apos;s Website
-                    </Link>
+                    </p>
                   </h3>
                   <p className="fn_desc">
                   In the dynamic realm of web development, I proudly present a responsive and theme-infused website created for Vidyavardhini&apos;s Bhausaheb Vartak Polytechnic&apos;s hackathon event. This project showcases my knack for seamlessly blending design and functionality, resulting in an interactive platform that embodies the event&apos;s spirit and adapts flawlessly to various devices.
                   </p>
                   <p className="fn_read">
-                    {/* <Link href="/roadmap-single"> */}
+                    {/* <Link href="#"> */}
                     <Link href="https://codecatalyst.netlify.app/">
                       <a className="neoh_fn_button only_text" target='_blank'>
                         <span className="text">Visit Website</span>
@@ -86,9 +86,9 @@ const Timeline = () => {
                     <span>Ringico</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link href="/roadmap-single">
+                    <p>
                       Jewellery E-Commerce Website
-                    </Link>
+                    </p>
                   </h3>
                   <p className="fn_desc">
                   Introducing &apos;Ringico&apos;, an alluring imitation jewellery e-commerce website that encapsulates dynamic design within a sleek dark theme. With responsiveness at its core, this platform redefines shopping by seamlessly adapting to any device. &apos;Ringico&apos; not only showcases exquisite adornments but also offers a captivating and user-centric experience that&apos;s as elegant as the pieces it presents.
@@ -125,7 +125,7 @@ const Timeline = () => {
                     <span>PulSick</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       Content Creation Platform
                     </Link>
                   </h3>
@@ -164,7 +164,7 @@ const Timeline = () => {
                     <span>Branding Guests</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       Online PG/Hostel Booking Website
                     </Link>
                   </h3>
@@ -172,7 +172,7 @@ const Timeline = () => {
                   In my rookie days, I created &apos;Branding Guests,&apos; an innovative online PG hostel booking platform. This dynamic and responsive website, adorned with thematic aesthetics, seamlessly blends style with functionality, showcasing my early commitment to crafting immersive and user-friendly digital experiences.
                   </p>
                   <p className="fn_read">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Unavailable to Display</span>
                       </a>
@@ -203,7 +203,7 @@ const Timeline = () => {
                     <span>Makaan Mitra</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       Real-Estate Website
                     </Link>
                   </h3>
@@ -211,7 +211,7 @@ const Timeline = () => {
                   At the heart of my portfolio is &apos;Makan Mitra,&apos; a dynamic and responsive real-estate and property seller website. With an engaging theme, trendy aesthetics, and seamless responsiveness, Makan Mitra showcases my ability to craft user-centric digital experiences that are both elegant and functional.
                   </p>
                   <p className="fn_read">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       <a className="neoh_fn_button only_text">
                         <span className="text">UNDER development</span>
                       </a>
@@ -242,7 +242,7 @@ const Timeline = () => {
                     <span>June 23, 2022</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       New Haircut Collection #01 is Coming Up
                     </Link>
                   </h3>
@@ -253,7 +253,7 @@ const Timeline = () => {
                     lectus interdum.
                   </p>
                   <p className="fn_read">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
@@ -284,7 +284,7 @@ const Timeline = () => {
                     <span>July 01, 2022</span>
                   </p>
                   <h3 className="fn_title">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       New Haircut Collection #02 is Coming Up
                     </Link>
                   </h3>
@@ -295,7 +295,7 @@ const Timeline = () => {
                     lectus interdum.
                   </p>
                   <p className="fn_read">
-                    <Link href="/roadmap-single">
+                    <Link href="#">
                       <a className="neoh_fn_button only_text">
                         <span className="text">Read More</span>
                       </a>
