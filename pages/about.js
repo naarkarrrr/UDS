@@ -119,11 +119,9 @@ const About = () => {
                   </p>
                 </div>
                 <div className="buttons">
-                <Link href="/contact">
-                  <a className="neoh_fn_button only_text">
+                  <a className="neoh_fn_button only_text" href="/contact" target='_blank' rel="noreferrer">
                     <span className="text">Contact Me to Know More</span>
                   </a>
-                </Link>
                 </div>
               </div>
             </div>
