@@ -58,10 +58,10 @@ const Contact = () => {
             </form>
             <div className="desc_holder">
               <p>
-              Let's Connect! Whether you're interested in collaborating on a project, have a question about my work, or simply want to say hello, I'm just a click away. Reach out and let's start a conversation.
+              Lets Connect! Whether youre interested in collaborating on a project, have a question about my work, or simply want to say hello, Im just a click away. Reach out and lets start a conversation.
               </p>
               <p>
-              Get in Touch! I'm thrilled to connect with you. If you're looking to discuss a potential project, inquire about my services, or even just share your thoughts, don't hesitate to reach out. I'm here to listen, collaborate, and bring your ideas to life.
+              Get in Touch! Im thrilled to connect with you. If youre looking to discuss a potential project, inquire about my services, or even just share your thoughts, dont hesitate to reach out. Im here to listen, collaborate, and bring your ideas to life.
               </p>
             </div>
             <div className="info_list">
@@ -71,7 +71,7 @@ const Contact = () => {
                   <h3 className="value">Vasai, Maharashtra</h3>
                 </li>
                 <li>
-                  <p className="label">Contact Me</p>
+                  <p className="label">Contact</p>
                   <h3 className="value">
                     <a href="tel:+91 84598 72341">+91 84598 72341</a>
                   </h3>
