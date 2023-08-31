@@ -119,9 +119,11 @@ const About = () => {
                   </p>
                 </div>
                 <div className="buttons">
-                  <a href="/contact" className="neoh_fn_button only_text">
+                <Link href="/contact">
+                  <a className="neoh_fn_button only_text">
                     <span className="text">Contact Me to Know More</span>
                   </a>
+                </Link>
                 </div>
               </div>
             </div>
@@ -170,7 +172,7 @@ const About = () => {
             <li>
               <div className="item">
                 <img src="img/investors/3.png" alt="" />
-                <a href="https://brandingcatalyst.net" target='_blank' className="full_link" />
+                <a href="https://brandingcatalyst.net" target='_blank' rel="noreferrer" className="full_link" />
               </div>
             </li>
             {/* <li>

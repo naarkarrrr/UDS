@@ -52,7 +52,7 @@ const WhyChooseUsComponent = () => {
             <li>
               <div className="item">
                 <img src="img/investors/3.png" alt="" />
-                <a href="https://brandingcatalyst.net" target='_blank' className="full_link" />
+                <a href="https://brandingcatalyst.net" target='_blank' rel="noreferrer" className="full_link" />
               </div>
             </li>
             {/* <li>

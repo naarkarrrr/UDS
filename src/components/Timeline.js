@@ -130,7 +130,7 @@ const Timeline = () => {
                     </Link>
                   </h3>
                   <p className="fn_desc">
-                  Introducing Pulsick, the dynamic content hub where creators pulse with innovation. Pulsick isn&apos;t just a platform; it&apos;s a creative heartbeat, allowing creators to livestream, share content like Instagram, sell merchandise, and collaborate seamlessly. With its responsive design, Pulsick ensures an intuitive experience across devices, embodying the essence of "sick pulse" creators who infuse every interaction with vibrant energy.
+                  Introducing Pulsick, the dynamic content hub where creators pulse with innovation. Pulsick isn&apos;t just a platform; it&apos;s a creative heartbeat, allowing creators to livestream, share content like Instagram, sell merchandise, and collaborate seamlessly. With its responsive design, Pulsick ensures an intuitive experience across devices, embodying the essence of &apos;Sick Pulse&apos; creators who infuse every interaction with vibrant energy.
                   </p>
                   <p className="fn_read">
                     <Link href="/">
