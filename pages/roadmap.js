@@ -29,7 +29,7 @@ const Roadmap = () => {
                   </div>
                   <div className="t_item_info">
                     <p className="fn_date">
-                      <span>CodeCatalyst'23</span>
+                      <span>CodeCatalyst&apos;23</span>
                     </p>
                     <h3 className="fn_title">
                       <Link href="/roadmap-single">
