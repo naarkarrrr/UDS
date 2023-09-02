@@ -21,8 +21,8 @@ const Footer = () => {
                 <form
               action="/"
               method="post"
-              className="contact_form"
-              id="contact_form"
+              className="newsletter"
+              id="newsletter"
               autoComplete="off"
               data-netlify="true"
             >
