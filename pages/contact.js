@@ -41,7 +41,6 @@ const Contact = () => {
                   <li>
                     <a
                       id="send_message"
-                      href="#"
                       className="neoh_fn_button only_text"
                     >
                       <span className="text">Send Message</span>
