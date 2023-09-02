@@ -16,7 +16,7 @@ const Footer = () => {
                 and Stay Ahead with the Latest Cutting-Edge Trends in Web Development, Design, and Beyond
                 </p>
               </div>
-              <div className="subscribe_form">
+              <div className="subscribe_form"               data-netlify="true">
                 <div className="subscribe_in">
                   <input type="text" placeholder="Enter Your Email ID" />
                   <a href="#" className="neoh_fn_button only_text">
