@@ -16,23 +16,33 @@ const Footer = () => {
                 and Stay Ahead with the Latest Cutting-Edge Trends in Web Development, Design, and Beyond
                 </p>
               </div>
-              <div className="subscribe_form"               data-netlify="true">
-                <div className="subscribe_in">
-                  <input type="text" placeholder="Enter Your Email ID" />
-                  <a href="#" className="neoh_fn_button only_text">
-                    <span className="text">Subscribe</span>
-                  </a>
+
+                <div className="subscribe_form">
+                <form
+              action="/"
+              method="post"
+              className="contact_form"
+              id="contact_form"
+              autoComplete="off"
+              data-netlify="true"
+            >
+                  <div className="subscribe_in">
+                    <input type="text" placeholder="Enter Your Email ID" />
+                    <a href="#" className="neoh_fn_button only_text">
+                      <span className="text">Subscribe</span>
+                    </a>
+                  </div>
+                </form>
+                  <div
+                    className="returnmessage"
+                    data-success="Your message has been received, We will contact you soon."
+                    data-message="You have subscribed to our updates. Thank you"
+                    data-invalid-email="Please enter valid email!"
+                  />
+                  <div className="empty_notice">
+                    <span>Please enter your Email</span>
+                  </div>
                 </div>
-                <div
-                  className="returnmessage"
-                  data-success="Your message has been received, We will contact you soon."
-                  data-message="You have subscribed to our updates. Thank you"
-                  data-invalid-email="Please enter valid email!"
-                />
-                <div className="empty_notice">
-                  <span>Please enter your Email</span>
-                </div>
-              </div>
               <div className="neoh_fn_social_list">
                 <ul>
                   <li>
