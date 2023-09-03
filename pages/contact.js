@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="container">
           <div className="mw_500">
             <form
-              action="/"
+              // action="/"
               method="post"
               className="contact_form"
               id="contact_form"
@@ -42,6 +42,7 @@ const Contact = () => {
                     <a
                       id="send_message"
                       className="neoh_fn_button only_text"
+                      type="submit"
                     >
                       <span className="text">Send Message</span>
                     </a>
