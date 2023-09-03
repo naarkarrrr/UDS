@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="container">
           <div className="mw_500">
             <form
-              action="/contact"
+              // action="/"
               method="post"
               className="contact_form"
               id="contact_form"
@@ -39,19 +39,16 @@ const Contact = () => {
                     <textarea id="message" defaultValue={""} />
                   </li>
                   <li>
-                    {/* <a
+                    <a
                       id="send_message"
                       className="neoh_fn_button only_text"
                       type="submit"
                       
                     >
                       <span className="text">Send Message</span>
-
-                    </a> */
-                    
-                  <input type="submit" value="Send Message"></input>
-                    }
+                    </a>
                   </li>
+                  
                 </ul>
               </div>
               <div
