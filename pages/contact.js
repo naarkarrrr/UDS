@@ -42,8 +42,9 @@ const Contact = () => {
                     <a
                       id="send_message"
                       className="neoh_fn_button only_text"
-                      type="submit"
-                    >
+                      onclick="contact_form.submit()">
+
+                      
                       <span className="text">Send Message</span>
                     </a>
                   </li>
