@@ -42,7 +42,7 @@ const Contact = () => {
                     <a
                       id="send_message"
                       className="neoh_fn_button only_text"
-                      onclick="contact_form.submit()">
+                      onClick="contact_form.submit()">
 
                       
                       <span className="text">Send Message</span>
