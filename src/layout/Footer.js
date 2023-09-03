@@ -27,7 +27,7 @@ const Footer = () => {
               data-netlify="true"
             >
                   <div className="subscribe_in">
-                    <input type="text" placeholder="Enter Your Email ID" />
+                  <input type="text" placeholder="Enter Your Email ID" />
                     <a href="#" className="neoh_fn_button only_text">
                       <span className="text">Subscribe</span>
                     </a>
