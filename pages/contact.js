@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="container">
           <div className="mw_500">
             <form
-              action="/"
+              action="/contact"
               method="post"
               className="contact_form"
               id="contact_form"
