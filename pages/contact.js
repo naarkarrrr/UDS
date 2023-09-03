@@ -39,12 +39,18 @@ const Contact = () => {
                     <textarea id="message" defaultValue={""} />
                   </li>
                   <li>
-                    <a
+                    {/* <a
                       id="send_message"
                       className="neoh_fn_button only_text"
+                      type="submit"
+                      
                     >
                       <span className="text">Send Message</span>
-                    </a>
+
+                    </a> */
+                    
+                  <input type="submit" value="Send Message"></input>
+                    }
                   </li>
                 </ul>
               </div>
