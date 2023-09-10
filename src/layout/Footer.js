@@ -93,16 +93,17 @@ const Footer = () => {
                   </a>
                 </p>
               </div>
-              {/* <div className="fb_right">
-                <ul>
+              <div className="fb_right">
+                <audio></audio>
+                {/* <ul>
                   <li>
                     <a href="#">Cookies</a>
                   </li>
                   <li>
                     <a href="#">Terms &amp; Conditions</a>
                   </li>
-                </ul>
-              </div> */}
+                </ul> */}
+              </div>
             </div>
           </div>
         </div>
