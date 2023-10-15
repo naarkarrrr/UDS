@@ -93,7 +93,7 @@ const Contact = () => {
               </div>
 
               <li>
-                <button type="submit" className="neoh_fn_button" disabled={!isFormValid}>
+                <button type="submit" className="neoh_fn_button" disabled={!isFormValid}  style={{color:"black"}}>
                   Send Message
                 </button>
               </li>
