@@ -19,6 +19,8 @@ const Contact = () => {
       });
 
       console.log("Form successfully submitted");
+      alert("Form successfully submitted")
+      myForm.reset();
     } catch (error) {
       console.error("Error submitting form", error);
       // Handle error more gracefully, e.g., show a user-friendly message
